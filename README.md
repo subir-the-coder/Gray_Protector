@@ -8,6 +8,10 @@ A powerful Domain Investigation &amp; Fraud Detection Tool — built for cyberse
 ![Version](https://img.shields.io/badge/Version-2.0-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0399c63-baf1-4a91-b3f7-e51be3d5e0d8" />
+
 ---
 
 ## 🚀 Overview
